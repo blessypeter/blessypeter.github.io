@@ -22,7 +22,9 @@ script.js      menu, scroll reveal and the timeline progress line
 assets/        favicon and my banner image
 ```
 
-The colors come from my LinkedIn banner (navy, violet and teal), and the hero art is a DNA helix that turns into a network of neurons. The timeline on the experience section is drawn like a DNA strand. If your device is set to reduce motion, the animations turn off.
+The colors are a light version of my LinkedIn banner (indigo, aqua and a little plum), and the hero art is a DNA helix that turns into a network of neurons. The timeline on the experience section has a thin DNA strand running down the side. If your device is set to reduce motion, the animations turn off.
+
+There are two color themes in `styles.css`. "Lab light" is the default. To try the warmer "Clinic morning" one, change `class="theme-lab"` to `class="theme-clinic"` on the `<html>` tag in `index.html`.
 
 To look at it locally, open `index.html` in a browser. GitHub Pages serves it straight from the `main` branch.
 
